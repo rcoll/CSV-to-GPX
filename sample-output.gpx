@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2016-09-09T04:26:12Z</time>
+    <bounds maxlat="33.55555" maxlon="44.740733333333" minlat="0" minlon="0"/>
+  </metadata>
+
+  <wpt lat="11.185183333333" lon="22.370366666667">
+    <time>2016-09-09T04:26:12Z</time>
+    <name>Foo</name>
+    <cmt>Fooooo</cmt>
+    <desc>Fooooo</desc>
+    <sym>Fishing Area 1</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>200</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>CSVTOGPX</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
+        <ctx:CreationTime>2016-09-09T04:26:12Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="33.55555" lon="44.740733333333">
+    <time>2016-09-09T04:26:12Z</time>
+    <name>Bar</name>
+    <cmt>Barrrr</cmt>
+    <desc>Barrrr</desc>
+    <sym>Fishing Area 1</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>200</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>CSVTOGPX</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
+        <ctx:CreationTime>2016-09-09T04:26:12Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.814816666667" lon="21.629633333333">
+    <time>2016-09-09T04:26:12Z</time>
+    <name>Fuu</name>
+    <cmt>Fuuuuu</cmt>
+    <desc>Fuuuuu</desc>
+    <sym>Fishing Area 1</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>398</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>CSVTOGPX</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
+        <ctx:CreationTime>2016-09-09T04:26:12Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="32.44445" lon="43.259266666667">
+    <time>2016-09-09T04:26:12Z</time>
+    <name>Test</name>
+    <cmt>Testtt</cmt>
+    <desc>Testtt</desc>
+    <sym>Fishing Area 1</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>493</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>CSVTOGPX</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
+        <ctx:CreationTime>2016-09-09T04:26:12Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.370366666667" lon="33.55555">
+    <time>2016-09-09T04:26:12Z</time>
+    <name>Last</name>
+    <cmt>Lasttt</cmt>
+    <desc>Lasttt</desc>
+    <sym>Fishing Area 1</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>333</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>CSVTOGPX</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
+        <ctx:CreationTime>2016-09-09T04:26:12Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+</gpx>
