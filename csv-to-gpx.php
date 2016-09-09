@@ -105,7 +105,7 @@ class CSV_To_GPX_Converter {
 		$multiplier = ( $point[0] < 0 ) ? -1 : 1;
 
 		// Do the math and return the result
-		return floatval( abs( $point[0] ) + ( $point[1] / 60 ) * $multiplier );
+		return floatval( abs( $point[0] ) + ( $point[1] / 60 ) ) * $multiplier;
 	}
 
 	/**

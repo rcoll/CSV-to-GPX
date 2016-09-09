@@ -5,12 +5,12 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2016-09-09T04:26:12Z</time>
-    <bounds maxlat="33.55555" maxlon="44.740733333333" minlat="0" minlon="0"/>
+    <time>2016-09-09T04:33:05Z</time>
+    <bounds maxlat="33.55555" maxlon="44.740733333333" minlat="-33.55555" minlon="-44.740733333333"/>
   </metadata>
 
   <wpt lat="11.185183333333" lon="22.370366666667">
-    <time>2016-09-09T04:26:12Z</time>
+    <time>2016-09-09T04:33:05Z</time>
     <name>Foo</name>
     <cmt>Fooooo</cmt>
     <desc>Fooooo</desc>
@@ -25,13 +25,13 @@
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
-        <ctx:CreationTime>2016-09-09T04:26:12Z</ctx:CreationTime>
+        <ctx:CreationTime>2016-09-09T04:33:05Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
 
   <wpt lat="33.55555" lon="44.740733333333">
-    <time>2016-09-09T04:26:12Z</time>
+    <time>2016-09-09T04:33:05Z</time>
     <name>Bar</name>
     <cmt>Barrrr</cmt>
     <desc>Barrrr</desc>
@@ -46,13 +46,13 @@
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
-        <ctx:CreationTime>2016-09-09T04:26:12Z</ctx:CreationTime>
+        <ctx:CreationTime>2016-09-09T04:33:05Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
 
-  <wpt lat="10.814816666667" lon="21.629633333333">
-    <time>2016-09-09T04:26:12Z</time>
+  <wpt lat="-11.185183333333" lon="-22.370366666667">
+    <time>2016-09-09T04:33:05Z</time>
     <name>Fuu</name>
     <cmt>Fuuuuu</cmt>
     <desc>Fuuuuu</desc>
@@ -67,13 +67,13 @@
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
-        <ctx:CreationTime>2016-09-09T04:26:12Z</ctx:CreationTime>
+        <ctx:CreationTime>2016-09-09T04:33:05Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
 
-  <wpt lat="32.44445" lon="43.259266666667">
-    <time>2016-09-09T04:26:12Z</time>
+  <wpt lat="-33.55555" lon="-44.740733333333">
+    <time>2016-09-09T04:33:05Z</time>
     <name>Test</name>
     <cmt>Testtt</cmt>
     <desc>Testtt</desc>
@@ -88,13 +88,13 @@
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
-        <ctx:CreationTime>2016-09-09T04:26:12Z</ctx:CreationTime>
+        <ctx:CreationTime>2016-09-09T04:33:05Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
 
   <wpt lat="22.370366666667" lon="33.55555">
-    <time>2016-09-09T04:26:12Z</time>
+    <time>2016-09-09T04:33:05Z</time>
     <name>Last</name>
     <cmt>Lasttt</cmt>
     <desc>Lasttt</desc>
@@ -109,7 +109,7 @@
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
-        <ctx:CreationTime>2016-09-09T04:26:12Z</ctx:CreationTime>
+        <ctx:CreationTime>2016-09-09T04:33:05Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
