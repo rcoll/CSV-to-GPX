@@ -10,13 +10,13 @@ Convert CSV data in the below format into a Garmin GPX file suitable for importi
 
 ### Command line usage
 
-```
+```bash
 php csv-to-gpx.php /some/input/file.csv /some/output/file.gpx [category]
 ```
 
 ### Usage in a larger PHP program
 
-```
+```php
 $csv = file_get_contents( '/some/input/file.csv' );
 $xml = CSV_To_GPX_Converter::convert( $csv );
 do_something_with_data( $xml );
