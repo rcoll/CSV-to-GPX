@@ -109,6 +109,34 @@ class CSV_To_GPX_Converter {
 	}
 
 	/**
+	 * Determine if the supplied point is DMM or not
+	 *
+	 * @param string $point The point to check
+	 * 
+	 * @access public
+	 * @static
+	 *
+	 * @return boolean True if the point is DMM, false if not
+	 */
+	public static function is_dmm( $point ) {
+
+	}
+
+	/**
+	 * Determine if the supplied point is a decimal point
+	 * 
+	 * @param float $point The point to check
+	 * 
+	 * @access public
+	 * @static
+	 *
+	 * @return boolean True if the point is a valid decimal point, false if not
+	 */
+	public static function is_dec( $point ) {
+		
+	}
+
+	/**
 	 * Get the current time in Zulu/UTC format
 	 *
 	 * @access public
